@@ -1,22 +1,19 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+This week, I reviewed Martin's PR. My goal is to get it merged today. I also
+started playing around with QEMU. I got a basic OpenWRT guest running, and was
+able to communicate with the host on a virtual serial port.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
+I intend to delve deeper into QEMU, and work on creating a poof-of-concept that
+allows the cube software running within QEMU to interact with the simulator
+running on the host.
 
-> Examples: New Bugs to be fixed, Design choices
+## Blocking
 
-## Anything Blocking?
-
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
+Nothing really.
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+Yeah, no.
